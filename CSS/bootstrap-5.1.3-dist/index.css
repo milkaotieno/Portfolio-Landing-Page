@@ -54,20 +54,23 @@ body {
     height: 30em;
     
       }
+
       header h1 {
       font-weight: bold;
       font-size: 4em;
       letter-spacing: 2px;
       }
-      header h5 {
+
+     /* header h5 {
       font-weight: 300;
       font-size: 1em;
       letter-spacing: 2px;
       color: black;
       }
-      /*header img {
-      width: 580px;
-      border-radius: 300px;
+      header img {
+      height: 500px;
+      width: 100%;
+      
       }
        About section */
       .about {
