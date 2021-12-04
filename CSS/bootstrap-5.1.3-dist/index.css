@@ -1,6 +1,9 @@
-body{
-    background-color: #e8e0d3e0;
-  }
+body {
+
+  background-color: lightgrey;
+  font-family: 'Roboto', sans-serif;
+}
+
   aside {
     position: fixed;
     width: 100px;
@@ -40,9 +43,15 @@ body{
     }
     /* header */
     header {
-      text-align: center;
-      height:120px;
-      margin-left: 75px;
+    text-align: center;
+    height:120px;
+    margin-left: 75px;
+    }
+    .personalinfo {
+    background-image: url("images/profile.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30em;
     
       }
       header h1 {
