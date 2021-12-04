@@ -65,13 +65,18 @@ body {
       letter-spacing: 2px;
       color: black;
       }
-      header img {
+      /*header img {
       width: 580px;
       border-radius: 300px;
       }
-      /* About section */
+       About section */
       .about {
         margin-left: 150px;
+        background-image: url("../images/profile.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    /*home/moringa/Documents/portfolio/images/profile.jpg*/
       }
   
       /* Job section */
