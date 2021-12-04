@@ -74,16 +74,21 @@ body {
       }
        About section */
       .about {
-        margin-left: 150px;
-        background-image: url("../images/profile.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+        margin-top: 20px;
+        margin-left: 250px;
+        margin-right: 200px;
+        background-image: url("images/profile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
 
     /*home/moringa/Documents/portfolio/images/profile.jpg*/
       }
+      .about h2 {
+        text-align: center;
+      }
   
       /* Job section */
-      .job {
+      .exprience {
         float: right;
       }
       /* education section */
@@ -99,8 +104,11 @@ body {
         font-weight: 700;
         font-style:italic;
       }
-      .push {
-        margin-left: 80px;
+      .abouthis {
+        margin-left: 100px;
+      }
+      .hobby {
+        margin-left: 300px;
       }
       .hobby li {
         list-style-type: disc;
@@ -108,8 +116,8 @@ body {
       .project {
         margin-left: 200px;
       }
-      
+/*       
       h5:hover {
         color:orange;
         cursor: pointer;
-      }
+      } */
