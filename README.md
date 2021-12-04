@@ -1,6 +1,6 @@
 # Portfolio
 
-## Nane of the Author 
+## Name of the Author 
 Otieno Milka A. || Software Programmer
 
 ![Project Image](images/home.png)
