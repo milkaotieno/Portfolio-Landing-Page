@@ -1,6 +1,6 @@
 body {
 
-  background-color: lightgrey;
+  background-color: gray;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -50,15 +50,17 @@ body {
     margin-left: 75px;
     }
     .personalinfo {
-    background-image: url("images/profile.jpg");
+    /* background-image: url("/images/profile.jpg"); */
     background-size: cover;
     background-repeat: no-repeat;
-    height: 30em;
+    height: 20em;
+    margin-top: 25px;
+    /* /home/moringa/Documents/portfolio/images/profile.jpg */
     
       }
-      .personalinfo img {
+      /* .personalinfo img {
         width: 100%;
-      }
+      } */
 
       header h1 {
       font-weight: bold;
@@ -66,18 +68,8 @@ body {
       letter-spacing: 2px;
       }
 
-     /* header h5 {
-      font-weight: 300;
-      font-size: 1em;
-      letter-spacing: 2px;
-      color: black;
-      }
-      header img {
-      height: 500px;
-      width: 100%;
-      
-      }
-       About section */
+     
+       /*About section */
       .about {
         margin-top: 20px;
         margin-left: 250px;
@@ -121,4 +113,5 @@ body {
       .project {
         margin-left: 200px;
         margin-right: 150px;
+        bottom: 100px;
       }
