@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Name of the Author 
-Otieno Milka A. || Software Programmer
+Otieno Milka A. 
 
 ![Project Image](images/home.png)
 ### This is a description of my portfolio land page.
@@ -30,6 +30,8 @@ It also contains my hobbies</p>
 * HTML - this was used to build the structure of the pages.
 
 * CSS - this was used to style the pages.
+
+* JS - this was used to make the pages more interactive.
 
 ### Installation Process
 ****
