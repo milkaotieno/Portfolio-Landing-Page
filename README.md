@@ -1,20 +1,3 @@
-#roject or program name - 
-#author name - 
-##description of project - 
-##project setup instructions - 
-##link to live site on GitHub Pages - 
-##copyright
-##license information
-
-A project README that includes:
-project or program name
-author name
-description of project
-project setup instructions
-link to live site on GitHub Pages
-copyright and license information
-
-
 # Portfolio
 
 ## Nane of the Author 
