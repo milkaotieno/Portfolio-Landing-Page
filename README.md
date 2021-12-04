@@ -3,7 +3,7 @@
 ## Name of the Author 
 Otieno Milka A. 
 
-![Project Image](images/home.png)
+![Project Image](/images/project.png)
 ### This is a description of my portfolio land page.
 
 ## Table of Content
