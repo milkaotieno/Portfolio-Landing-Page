@@ -6,7 +6,7 @@ body {
 
   aside {
     position: fixed;
-    width: 100px;
+    width: 150px;
     height: 100%;
     background-color: saddlebrown;
     top: 0px;
@@ -96,7 +96,8 @@ body {
         clear: both;
       }
       span {
-        font-weight: bold;
+        font-weight: 700;
+        font-style:italic;
       }
       .push {
         margin-left: 80px;
@@ -105,7 +106,7 @@ body {
         list-style-type: disc;
       }
       .project {
-        margin-left: 150px;
+        margin-left: 200px;
       }
       
       h5:hover {
