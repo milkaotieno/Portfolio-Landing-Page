@@ -31,7 +31,7 @@ It also contains my hobbies</p>
 
 * CSS - this was used to style the pages.
 
-* JS - this was used to make the pages more interactive.
+
 
 ### Installation Process
 ****
