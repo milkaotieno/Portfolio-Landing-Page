@@ -1,8 +1,9 @@
 /* customized css */
-body {
+html {
 
-  background-color: grey;
+
   font-family: 'Roboto', sans-serif;
+  background-color: #E8E0D3;
 }
 
   aside {
@@ -42,7 +43,7 @@ body {
     
     nav img {
       width: 100%;
-      height: 130px;
+      height: 110px;
     }
     /* header */
     header {
@@ -78,6 +79,7 @@ body {
         background-image: url("images/profile.jpg");
         background-size: cover;
         background-repeat: no-repeat;
+        background-color: #E8E0D3;
 
     /*home/moringa/Documents/portfolio/images/profile.jpg*/
       }
